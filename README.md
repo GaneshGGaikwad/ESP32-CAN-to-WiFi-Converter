@@ -6,9 +6,14 @@ It connects to CAN device and communicate. We can get the data over WiFi, so we 
 
 As we look the CAN communication, we are sometimes restrict to use USB based converters. So we need to keep our systems near to CAN device in the workplace. Sometimes it's not feasible. So heres the solution as my point of view and my approch to solve this.
 
+# Prerequisite
+Knowledge of CAN Communication Protocol.
+
+Understanding of UDS protocol.
+
 # Installation
 
-You have to install Arduino IDE and ESP32 toolchain to run this project
+You have to install Arduino IDE and ESP32 toolchain to run this project.
 
 Installation Links:
 
